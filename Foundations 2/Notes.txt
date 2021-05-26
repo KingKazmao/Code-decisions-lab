@@ -1,0 +1,141 @@
+software development is the proicess of creating designing testing and deploying software for customers to use. 
+
+step one -  is planning. (figure out best way to get to what you wanna do, stay organized)
+
+step two - analysis of requirements 
+
+step three - Design
+
+step four - Implementation
+
+step five - testing & integration
+
+step six - maintain
+
+
+common software methodologies
+
+- waterfall
+- agile
+- feature-driven development
+- lean 
+- RAD
+
+
+
+-------------------------------------------------------------- 
+Often easier to learn
+
+* Pyhton Back end
+* Javascript front end
+* Ruby back end
+--------------------------------------------------------------
+More syntax
+------------
+day 2
+------
+
+Before you build software
+- conduct research
+- create user personas
+- create a prototype
+- your idea should solve actual problems for real (potential) users
+---------------------------
+User research
+
+survey: answer questions on a survey
+Interviews: ask live questions and record freeform answers
+Observation: watch and learn from peoples natural behaviors
+focus groups: Get a group together and facilitate a discussion
+contextual inquiry: Blend of observation and interview
+usability testing: watch someone use an app prototype
+Literature Review: Read existing research on your problem statement and summarize.
+---------------------------------------------------------------------------------------
+
+Day 4:
+ Design
+
+
+Design Thinking
+Is the site usable fo rusers? do they have a good experience? Does the site make users think its truthworthy? is it attractive?
+
+
+basic design Principles
+
+user experience
+User experience is how a perosn feel swhile interacting with a product or interface. The goal is to help users interact with a product that is useful and easy to use resulting in a positive and meaningful experience. 
+
+Usability 
+" In large part, what makes something usable is the absence of frustration in using it." - dana chisnell.
+
+
+- COmmunicate what users should do now
+ - if theres a most popular option, draw attention to it
+this coul dbe color size placement
+
+- Provide feedback to reward success
+ youve completed 2 of 3 steps
+ progress bars
+
+
+ - Hide non critical options unless needed
+  can hide options behind modals, dropdowns, mouseovers
+ 
+ - interactivity should be self evident
+
+ - example: is it obvious that lcicking a header sorts the table?
+ - would help text/small arrows make this more clear?
+
+
+TRUST/ CREDIBILITY
+
+Quiet, consistent design promotes a sense of trust/
+
+
+aesthetic delight
+
+
+design misconceptions
+
+Its just a step in the process
+ its not just one part? its woven throughout?
+
+its easy
+- designers make things seem easy because they make things make sense
+
+- its the role of one perosn department
+- while there might be individual deisgners or a team of them the work with other teams to help them implement design
+into what theyre working on
+
+its a choice
+
+the biggest misconception is that companies have a choice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
